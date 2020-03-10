@@ -1,1 +1,1 @@
-const foo = () => undefined;
+var foo = () => undefined;
